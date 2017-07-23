@@ -5246,8 +5246,8 @@ react-dom@^15.4.2:
     prop-types "^15.5.10"
 
 react-forms-state@alanzanattadev/react-forms-state:
-  version "2.5.4"
-  resolved "https://codeload.github.com/alanzanattadev/react-forms-state/tar.gz/bd2f0111662f6edd7ae9c329b7c4c72b1cace5dd"
+  version "2.6.1"
+  resolved "https://codeload.github.com/alanzanattadev/react-forms-state/tar.gz/0a4fa49dfd683628fae238391fa819b12989baee"
   dependencies:
     immutable "^3.8.1"
     lodash "^4.16.6"
