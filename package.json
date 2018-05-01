@@ -51,7 +51,7 @@
     "moment": "^2.19.2",
     "nightwatch": "^0.9.12",
     "nightwatch-html-reporter": "^2.0.0",
-    "nuclide-prebuilt-libs": "^0.3.8",
+    "nuclide-prebuilt-libs": "^0.4.2",
     "nullthrows": "^1.0.1",
     "radium": "^0.19.1",
     "react": "^15.4.2",
